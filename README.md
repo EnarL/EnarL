@@ -26,9 +26,3 @@ Hi, I'm Enar Leini. I'm a Computer Science graduate from University of Tartu (Cl
 I'm comfortable working on both back-end and front-end — mainly using Java or Node.js for server-side logic, and React, Next.js or Vue.js for UI. I'm also familiar with Arduino and Raspberry Pi through hands-on home automation projects.
 
 Currently, I'm learning more about Node.js and exploring best practices in DevOps.
-
-## Get in Touch
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/enar-leini/)
-- 📧 Email: [enar.leini00@gmail.com](mailto:enar.leini00@gmail.com)
-- 🌐 Website: [enarleini.tech](https://www.enarleini.tech)
